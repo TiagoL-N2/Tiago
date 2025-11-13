@@ -30,8 +30,7 @@
 </head>
 <body>
   <h1>Flappy Bat</h1>
-  <p> Dette er en variant på spille flappy bird. Når du trykker på mellomrom hopper du og du må komme Mellom rørene.
-   </p>
+  <p> Dette er en variant på spille flappy bird. Når du trykker på mellomrom hopper du og du må komme Mellom rørene.</p>
 
   <iframe src="https://scratch.mit.edu/projects/1224099111/embed"
           allowtransparency="true"
