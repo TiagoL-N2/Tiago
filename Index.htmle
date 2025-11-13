@@ -5,32 +5,8 @@
   <title>Mitt Scratch-prosjekt</title>
 </head>
 <body>
-  <h1>Jafsefisk</h1>
-  <p>Dette er et program hvor du prøver å spise fisk uten å bli spist!</p>
-
-  <iframe src="https://scratch.mit.edu/projects/1232683797/embed"
-          allowtransparency="true"
-          width="485" height="402"
-          frameborder="0"
-          scrolling="no"
-          allowfullscreen>
-  </iframe>
-
-  <p><a href="https://scratch.mit.edu/projects/1232683797/" target="_blank">
-    Åpne prosjektet på Scratch
-  </a></p>
-</body>
-</html>
-
-<!DOCTYPE html>
-<html lang="no">
-<head>
-  <meta charset="UTF-8" />
-  <title>Mitt Scratch-prosjekt</title>
-</head>
-<body>
-  <h1>Flappy Bat</h1>
-  <p> Dette er en variant på spille flappy bird. Når du trykker på mellomrom hopper du og du må komme Mellom rørene.</p>
+  <h1>Flappe Bat</h1>
+  <p>Når du trykker på mellomrom hopper du og du må komme gjennom rørene.</p>
 
   <iframe src="https://scratch.mit.edu/projects/1224099111/embed"
           allowtransparency="true"
